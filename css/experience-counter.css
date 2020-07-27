@@ -1,0 +1,21 @@
+.countup {
+  text-align: left;
+  width: 75%;
+  margin-bottom: 20px;
+}
+.countup .timeel {
+  display: inline-block;
+  padding: 5px;
+  background: #696969;
+  margin: 0;
+  color: white;
+  min-width: 1rem;
+  margin-left: 3px;
+  border-radius: 10px 0 0 10px;
+}
+.countup span[class*="timeRef"] {
+  border-radius: 0 10px 10px 0;
+  margin-left: 0;
+  background: #11ABB0;
+  color: black;
+}
